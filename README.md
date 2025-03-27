@@ -75,3 +75,14 @@ note : you should install sqlite first on your system
 step 3 : php artisan serve
 
 open uploaded website on vercel or open next.js application on localhost
+
+
+--------------------------------------------------------------------
+
+ php artisan test --filter=TaskControllerTest
+
+ for test 
+
+
+----------------------------------------------------------------------
+
