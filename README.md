@@ -67,3 +67,11 @@ AWS_USE_PATH_STYLE_ENDPOINT=false
 
 VITE_APP_NAME="${APP_NAME}"
 
+-------------------------------------------------------------------
+
+step 1 : composer install 
+step 2 : php artisan migrate
+note : you should install sqlite first on your system 
+step 3 : php artisan serve
+
+open uploaded website on vercel or open next.js application on localhost
